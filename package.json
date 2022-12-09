@@ -1,11 +1,11 @@
 {
   "name": "hexo-filter-include",
   "version": "0.1.0",
-  "description": "hexo filter plugin, for including other file before any other filter.",
+  "description": "hexo filter plugin, for including other files before any other filter.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Pluswave <zengbo.zhang@gmail.com>",
   "license": "MIT"
 }
